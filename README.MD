@@ -82,6 +82,6 @@ To create a 250-word-minimum written report called act_report.pdf or act_report.
 Both of these documents can be created in separate Jupyter Notebooks using the Markdown functionality of Jupyter Notebooks, then downloading those notebooks as PDF files or HTML files (see image below).
 
 ### Datasets: 
-twitter-archive-enhanced.csv
-image_predictions.tsv
-tweet_json.txt
+- twitter-archive-enhanced.csv
+- image_predictions.tsv
+- tweet_json.txt
